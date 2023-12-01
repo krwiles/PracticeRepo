@@ -3,3 +3,4 @@ access.log
 log/*.log
 log/*.log.[0-9]
 # This is a comment
+db_config.txt
